@@ -22,7 +22,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/star.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
+            <state relative-caret-position="198">
               <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
               <folding>
                 <element signature="e#51#64#0" expanded="true" />
@@ -34,15 +34,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/game_functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="52" column="64" selection-start-line="52" selection-start-column="64" selection-end-line="52" selection-end-column="64" />
+            <state relative-caret-position="363">
+              <caret line="49" column="44" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
               <folding>
                 <element signature="e#51#64#0" expanded="true" />
-                <element signature="e#122#215#0" />
-                <element signature="e#163#215#0" />
-                <element signature="e#270#357#0" />
-                <element signature="e#649#845#0" />
-                <element signature="e#883#1080#0" />
+                <element signature="e#149#242#0" />
+                <element signature="e#190#242#0" />
+                <element signature="e#297#384#0" />
+                <element signature="e#424#640#0" />
+                <element signature="e#552#640#0" />
+                <element signature="e#676#872#0" />
+                <element signature="e#910#1107#0" />
+                <element signature="e#1160#1328#0" />
               </folding>
             </state>
           </provider>
@@ -51,8 +54,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/star_grid.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="110">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#51#64#0" expanded="true" />
               </folding>
@@ -229,7 +232,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/star.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
+        <state relative-caret-position="198">
           <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
           <folding>
             <element signature="e#51#64#0" expanded="true" />
@@ -239,8 +242,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/star_grid.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="110">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#51#64#0" expanded="true" />
           </folding>
@@ -249,15 +252,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/game_functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="52" column="64" selection-start-line="52" selection-start-column="64" selection-end-line="52" selection-end-column="64" />
+        <state relative-caret-position="363">
+          <caret line="49" column="44" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
           <folding>
             <element signature="e#51#64#0" expanded="true" />
-            <element signature="e#122#215#0" />
-            <element signature="e#163#215#0" />
-            <element signature="e#270#357#0" />
-            <element signature="e#649#845#0" />
-            <element signature="e#883#1080#0" />
+            <element signature="e#149#242#0" />
+            <element signature="e#190#242#0" />
+            <element signature="e#297#384#0" />
+            <element signature="e#424#640#0" />
+            <element signature="e#552#640#0" />
+            <element signature="e#676#872#0" />
+            <element signature="e#910#1107#0" />
+            <element signature="e#1160#1328#0" />
           </folding>
         </state>
       </provider>

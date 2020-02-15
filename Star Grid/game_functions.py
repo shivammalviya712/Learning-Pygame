@@ -28,7 +28,7 @@ def create_grid(stars, screen):
     number_columns = get_number_column(screen)
     for row in range(number_rows):
         for column in range(number_columns):
-            create_star(stars, screen, column, row)
+            create_star(stars, screen, number_columns, number_rows)
 
 
 def get_number_rows(screen):
@@ -50,8 +50,8 @@ def get_number_column(screen):
 def create_star(stars, screen, column, row):
 
     star = Star(screen)
-    star.rect.x = star.rect.width + column * star.rect.width * 2
-    star.rect.y = star.rect.height + row * star.rect.height * 2
+    star.rect.x = star.rect.width + randint (1, column) * star.rect.width * 2
+    star.rect.y = star.rect.height + randint (1,row) * star.rect.height * 2
     stars.add(star)
 
 
