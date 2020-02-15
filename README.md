@@ -1,2 +1,4 @@
-# python-learning-1
-learning python
+# Learning Pygame
+Objective: To learn basic functions of pygame.
+
+
